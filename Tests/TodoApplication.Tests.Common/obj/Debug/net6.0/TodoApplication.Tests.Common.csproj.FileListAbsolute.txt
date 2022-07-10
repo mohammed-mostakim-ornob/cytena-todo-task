@@ -1,0 +1,12 @@
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/bin/Debug/net6.0/TodoApplication.Tests.Common.deps.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/bin/Debug/net6.0/TodoApplication.Tests.Common.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/bin/Debug/net6.0/TodoApplication.Tests.Common.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/obj/Debug/net6.0/TodoApplication.Tests.Common.csproj.AssemblyReference.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/obj/Debug/net6.0/TodoApplication.Tests.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/obj/Debug/net6.0/TodoApplication.Tests.Common.AssemblyInfoInputs.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/obj/Debug/net6.0/TodoApplication.Tests.Common.AssemblyInfo.cs
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/obj/Debug/net6.0/TodoApplication.Tests.Common.csproj.CoreCompileInputs.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/obj/Debug/net6.0/TodoApplication.Tests.Common.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/obj/Debug/net6.0/refint/TodoApplication.Tests.Common.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/obj/Debug/net6.0/TodoApplication.Tests.Common.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/obj/Debug/net6.0/ref/TodoApplication.Tests.Common.dll

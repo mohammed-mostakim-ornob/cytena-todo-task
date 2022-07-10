@@ -1,0 +1,352 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Infrastructure.IntegrationTests/TodoApplication.Infrastructure.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Infrastructure.IntegrationTests/TodoApplication.Infrastructure.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Infrastructure.IntegrationTests/TodoApplication.Infrastructure.IntegrationTests.csproj",
+        "projectName": "TodoApplication.Infrastructure.IntegrationTests",
+        "projectPath": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Infrastructure.IntegrationTests/TodoApplication.Infrastructure.IntegrationTests.csproj",
+        "packagesPath": "/Users/Ornob/.nuget/packages/",
+        "outputPath": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Infrastructure.IntegrationTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Ornob/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/TodoApplication.Tests.Common.csproj": {
+                "projectPath": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/TodoApplication.Tests.Common.csproj"
+              },
+              "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/TodoApplication.Domain.csproj": {
+                "projectPath": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/TodoApplication.Domain.csproj"
+              },
+              "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/TodoApplication.Infrastructure.csproj": {
+                "projectPath": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/TodoApplication.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.7.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/TodoApplication.Tests.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/TodoApplication.Tests.Common.csproj",
+        "projectName": "TodoApplication.Tests.Common",
+        "projectPath": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/TodoApplication.Tests.Common.csproj",
+        "packagesPath": "/Users/Ornob/.nuget/packages/",
+        "outputPath": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/Tests/TodoApplication.Tests.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Ornob/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Common/TodoApplication.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Common/TodoApplication.Common.csproj",
+        "projectName": "TodoApplication.Common",
+        "projectPath": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Common/TodoApplication.Common.csproj",
+        "packagesPath": "/Users/Ornob/.nuget/packages/",
+        "outputPath": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Ornob/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/TodoApplication.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/TodoApplication.Domain.csproj",
+        "projectName": "TodoApplication.Domain",
+        "projectPath": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/TodoApplication.Domain.csproj",
+        "packagesPath": "/Users/Ornob/.nuget/packages/",
+        "outputPath": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Ornob/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Common/TodoApplication.Common.csproj": {
+                "projectPath": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Common/TodoApplication.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/TodoApplication.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/TodoApplication.Infrastructure.csproj",
+        "projectName": "TodoApplication.Infrastructure",
+        "projectPath": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/TodoApplication.Infrastructure.csproj",
+        "packagesPath": "/Users/Ornob/.nuget/packages/",
+        "outputPath": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Ornob/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/TodoApplication.Domain.csproj": {
+                "projectPath": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/TodoApplication.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

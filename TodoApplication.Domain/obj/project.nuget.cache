@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r/bj2Hs/ePwA/iM2rQJ8iCAwdCzvAL6sVlg7pDZDxeb6cehbd0tPe1aE3aRng+DHrqFYBfbWYWtuXT59WR5IAw==",
+  "success": true,
+  "projectFilePath": "/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/TodoApplication.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/Ornob/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/Ornob/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/Ornob/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/Ornob/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

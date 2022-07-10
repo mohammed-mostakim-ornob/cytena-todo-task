@@ -1,0 +1,55 @@
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Infrastructure/bin/Debug/net6.0/TodoApplication.Infrastructure.deps.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Infrastructure/bin/Debug/net6.0/TodoApplication.Infrastructure.runtimeconfig.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Infrastructure/bin/Debug/net6.0/TodoApplication.Infrastructure.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Infrastructure/bin/Debug/net6.0/TodoApplication.Infrastructure.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Infrastructure/bin/Debug/net6.0/TodoApplication.Domain.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Infrastructure/bin/Debug/net6.0/TodoApplication.Domain.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.csproj.AssemblyReference.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.AssemblyInfoInputs.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.AssemblyInfo.cs
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.csproj.CopyComplete
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/refint/TodoApplication.Infrastructure.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.genruntimeconfig.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/ref/TodoApplication.Infrastructure.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/bin/Debug/net6.0/TodoApplication.Infrastructure.deps.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/bin/Debug/net6.0/TodoApplication.Infrastructure.runtimeconfig.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/bin/Debug/net6.0/TodoApplication.Infrastructure.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/bin/Debug/net6.0/TodoApplication.Infrastructure.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/bin/Debug/net6.0/TodoApplication.Domain.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/bin/Debug/net6.0/TodoApplication.Domain.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.csproj.AssemblyReference.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.AssemblyInfoInputs.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.AssemblyInfo.cs
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.csproj.CopyComplete
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/refint/TodoApplication.Infrastructure.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/TodoApplication.Infrastructure.genruntimeconfig.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/obj/Debug/net6.0/ref/TodoApplication.Infrastructure.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/bin/Debug/net6.0/TodoApplication.Common.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Infrastructure/bin/Debug/net6.0/TodoApplication.Common.pdb
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\bin\Debug\net6.0\TodoApplication.Infrastructure.deps.json
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\bin\Debug\net6.0\TodoApplication.Infrastructure.runtimeconfig.json
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\bin\Debug\net6.0\TodoApplication.Infrastructure.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\bin\Debug\net6.0\TodoApplication.Infrastructure.pdb
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\bin\Debug\net6.0\TodoApplication.Common.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\bin\Debug\net6.0\TodoApplication.Domain.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\bin\Debug\net6.0\TodoApplication.Domain.pdb
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\bin\Debug\net6.0\TodoApplication.Common.pdb
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\obj\Debug\net6.0\TodoApplication.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\obj\Debug\net6.0\TodoApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\obj\Debug\net6.0\TodoApplication.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\obj\Debug\net6.0\TodoApplication.Infrastructure.AssemblyInfo.cs
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\obj\Debug\net6.0\TodoApplication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\obj\Debug\net6.0\TodoApplication.Infrastructure.csproj.CopyComplete
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\obj\Debug\net6.0\TodoApplication.Infrastructure.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\obj\Debug\net6.0\refint\TodoApplication.Infrastructure.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\obj\Debug\net6.0\TodoApplication.Infrastructure.pdb
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\obj\Debug\net6.0\TodoApplication.Infrastructure.genruntimeconfig.cache
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Infrastructure\obj\Debug\net6.0\ref\TodoApplication.Infrastructure.dll

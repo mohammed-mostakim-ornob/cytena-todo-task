@@ -1,0 +1,7 @@
+{
+  "TodoApplication.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/Ornob\/Work\/Job Search\/Interviews\/Task\/Cytena\/dotnet-todo-rest-services-mohammed\/TodoApplication\/TodoApplication.Api",
+  "TodoApplication.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/Ornob\/Work\/Job Search\/Interviews\/Task\/Cytena\/dotnet-todo-rest-services-mohammed\/TodoApplication\/TodoApplication.Common",
+  "TodoApplication.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/Ornob\/Work\/Job Search\/Interviews\/Task\/Cytena\/dotnet-todo-rest-services-mohammed\/TodoApplication\/TodoApplication.Domain",
+  "TodoApplication.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/Ornob\/Work\/Job Search\/Interviews\/Task\/Cytena\/dotnet-todo-rest-services-mohammed\/TodoApplication\/TodoApplication.Infrastructure",
+  "TodoApplication.Tests.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/Ornob\/Work\/Job Search\/Interviews\/Task\/Cytena\/dotnet-todo-rest-services-mohammed\/TodoApplication\/Tests\/TodoApplication.Tests.Common"
+}

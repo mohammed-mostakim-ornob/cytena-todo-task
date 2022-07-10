@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/Ornob/Library/Caches/JetBrains/Rider2022.1/resharper-host/temp/Rider/vAny/CoverageData/_TodoApplication.-1314526103/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=21b60fc6_002Debd9_002D4008_002D8ba2_002Dca6bbb561978/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetTodoAsync_ReturnsTodo" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::3AFC69CD-1C71-4280-B2F4-C14F85643D22::net6.0::TodoApplication.Domain.UnitTests.TodoServiceTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2E6D2002-1EBA-4851-B34C-BEBBF42B5D43::net6.0::TodoApplication.Infrastructure.IntegrationTests.FileServiceTests.SaveAsync_Should_Save_File_And_Return_FilePath&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2E6D2002-1EBA-4851-B34C-BEBBF42B5D43::net6.0::TodoApplication.Infrastructure.IntegrationTests.FileServiceTests.SaveAsync_Should_Throw_ArgumentException&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2E6D2002-1EBA-4851-B34C-BEBBF42B5D43::net6.0::TodoApplication.Infrastructure.IntegrationTests.FileServiceTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2E6D2002-1EBA-4851-B34C-BEBBF42B5D43::net6.0::TodoApplication.Infrastructure.IntegrationTests.Services.FileServiceTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2E6D2002-1EBA-4851-B34C-BEBBF42B5D43::net6.0::TodoApplication.Infrastructure.IntegrationTests.Repositories.TodoRepositoryTests.GetAsyncIncluding&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2E6D2002-1EBA-4851-B34C-BEBBF42B5D43::net6.0::TodoApplication.Infrastructure.IntegrationTests.Repositories.TodoRepositoryTests.GetAsyncIncluding_Should_Return_Todo&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2E6D2002-1EBA-4851-B34C-BEBBF42B5D43::net6.0::TodoApplication.Infrastructure.IntegrationTests.Repositories.TodoRepositoryTests.GetAsyncIncluding_Should_Return_Null&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2E6D2002-1EBA-4851-B34C-BEBBF42B5D43::net6.0::TodoApplication.Infrastructure.IntegrationTests.Repositories.TodoRepositoryTests.GetAllPagedAsyncIncluding_Should_Return_NoItem&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2E6D2002-1EBA-4851-B34C-BEBBF42B5D43::net6.0::TodoApplication.Infrastructure.IntegrationTests.Repositories.TodoRepositoryTests.AddAsync_Should_AddTodo&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2E6D2002-1EBA-4851-B34C-BEBBF42B5D43::net6.0::TodoApplication.Infrastructure.IntegrationTests.Repositories.TodoRepositoryTests.AddAsync_Should_Throw_DbUpdateException&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2E6D2002-1EBA-4851-B34C-BEBBF42B5D43::net6.0::TodoApplication.Infrastructure.IntegrationTests.Repositories.TodoRepositoryTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::8A92FC70-17F7-4A99-9DAE-7221802191C2::net6.0::TodoApplication.Api.IntegrationTests.TodosControllerTests.GetTodoItem_Should_Return_ResponseCode404&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::8A92FC70-17F7-4A99-9DAE-7221802191C2::net6.0::TodoApplication.Api.IntegrationTests.TodosControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>

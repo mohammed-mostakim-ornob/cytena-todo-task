@@ -1,0 +1,142 @@
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/appsettings.Development.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/appsettings.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Api
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Api.deps.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Api.runtimeconfig.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Api.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Api.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Npgsql.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Domain.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Infrastructure.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Domain.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Infrastructure.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.csproj.AssemblyReference.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.AssemblyInfoInputs.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.AssemblyInfo.cs
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.csproj.CoreCompileInputs.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/staticwebassets.build.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/staticwebassets.development.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/scopedcss/bundle/TodoApplication.Api.styles.css
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.csproj.CopyComplete
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/refint/TodoApplication.Api.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.genruntimeconfig.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/ref/TodoApplication.Api.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Humanizer.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/RiskFirst.Hateoas.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/RiskFirst.Hateoas.Models.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/appsettings.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Api
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Api.deps.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Api.runtimeconfig.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Api.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Api.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Humanizer.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Npgsql.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/RiskFirst.Hateoas.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/RiskFirst.Hateoas.Models.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Domain.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Infrastructure.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Domain.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Infrastructure.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.csproj.AssemblyReference.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.AssemblyInfoInputs.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.AssemblyInfo.cs
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.csproj.CoreCompileInputs.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/staticwebassets.build.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/staticwebassets.development.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/scopedcss/bundle/TodoApplication.Api.styles.css
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.csproj.CopyComplete
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/refint/TodoApplication.Api.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/TodoApplication.Api.genruntimeconfig.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/obj/Debug/net6.0/ref/TodoApplication.Api.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Common.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/TodoApplication.Common.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Api/bin/Debug/net6.0/appsettings.docker.json
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\appsettings.docker.json
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\TodoApplication.Api.exe
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\TodoApplication.Api.deps.json
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\TodoApplication.Api.runtimeconfig.json
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\TodoApplication.Api.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\TodoApplication.Api.pdb
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\Npgsql.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\RiskFirst.Hateoas.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\RiskFirst.Hateoas.Models.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\TodoApplication.Common.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\TodoApplication.Domain.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\TodoApplication.Infrastructure.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\TodoApplication.Domain.pdb
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\TodoApplication.Infrastructure.pdb
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\bin\Debug\net6.0\TodoApplication.Common.pdb
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\obj\Debug\net6.0\TodoApplication.Api.csproj.AssemblyReference.cache
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\obj\Debug\net6.0\TodoApplication.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\obj\Debug\net6.0\TodoApplication.Api.AssemblyInfoInputs.cache
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\obj\Debug\net6.0\TodoApplication.Api.AssemblyInfo.cs
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\obj\Debug\net6.0\TodoApplication.Api.csproj.CoreCompileInputs.cache
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\obj\Debug\net6.0\TodoApplication.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\obj\Debug\net6.0\TodoApplication.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\obj\Debug\net6.0\scopedcss\bundle\TodoApplication.Api.styles.css
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\obj\Debug\net6.0\TodoApplication.Api.csproj.CopyComplete
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\obj\Debug\net6.0\TodoApplication.Api.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\obj\Debug\net6.0\refint\TodoApplication.Api.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\obj\Debug\net6.0\TodoApplication.Api.pdb
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\obj\Debug\net6.0\TodoApplication.Api.genruntimeconfig.cache
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Api\obj\Debug\net6.0\ref\TodoApplication.Api.dll

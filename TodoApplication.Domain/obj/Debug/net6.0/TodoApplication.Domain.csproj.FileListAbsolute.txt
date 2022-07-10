@@ -1,0 +1,42 @@
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Domain/bin/Debug/net6.0/TodoApplication.Domain.deps.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Domain/bin/Debug/net6.0/TodoApplication.Domain.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Domain/bin/Debug/net6.0/TodoApplication.Domain.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/TodoApplication.Domain.csproj.AssemblyReference.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/TodoApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/TodoApplication.Domain.AssemblyInfoInputs.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/TodoApplication.Domain.AssemblyInfo.cs
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/TodoApplication.Domain.csproj.CoreCompileInputs.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/TodoApplication.Domain.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/refint/TodoApplication.Domain.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/TodoApplication.Domain.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/ref/TodoApplication.Domain.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/bin/Debug/net6.0/TodoApplication.Domain.deps.json
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/bin/Debug/net6.0/TodoApplication.Domain.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/bin/Debug/net6.0/TodoApplication.Domain.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/TodoApplication.Domain.csproj.AssemblyReference.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/TodoApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/TodoApplication.Domain.AssemblyInfoInputs.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/TodoApplication.Domain.AssemblyInfo.cs
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/TodoApplication.Domain.csproj.CoreCompileInputs.cache
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/TodoApplication.Domain.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/refint/TodoApplication.Domain.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/TodoApplication.Domain.pdb
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/ref/TodoApplication.Domain.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/obj/Debug/net6.0/TodoApplication.Domain.csproj.CopyComplete
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/bin/Debug/net6.0/TodoApplication.Common.dll
+/Users/Ornob/Work/Job Search/Interviews/Task/Cytena/dotnet-todo-rest-services-mohammed/TodoApplication/TodoApplication.Domain/bin/Debug/net6.0/TodoApplication.Common.pdb
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Domain\bin\Debug\net6.0\TodoApplication.Domain.deps.json
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Domain\bin\Debug\net6.0\TodoApplication.Domain.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Domain\bin\Debug\net6.0\TodoApplication.Domain.pdb
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Domain\bin\Debug\net6.0\TodoApplication.Common.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Domain\bin\Debug\net6.0\TodoApplication.Common.pdb
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Domain\obj\Debug\net6.0\TodoApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Domain\obj\Debug\net6.0\TodoApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Domain\obj\Debug\net6.0\TodoApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Domain\obj\Debug\net6.0\TodoApplication.Domain.AssemblyInfo.cs
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Domain\obj\Debug\net6.0\TodoApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Domain\obj\Debug\net6.0\TodoApplication.Domain.csproj.CopyComplete
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Domain\obj\Debug\net6.0\TodoApplication.Domain.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Domain\obj\Debug\net6.0\refint\TodoApplication.Domain.dll
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Domain\obj\Debug\net6.0\TodoApplication.Domain.pdb
+C:\Users\mosta\Desktop\TodoApplication\TodoApplication.Domain\obj\Debug\net6.0\ref\TodoApplication.Domain.dll
